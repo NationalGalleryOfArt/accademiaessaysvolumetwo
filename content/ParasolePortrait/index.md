@@ -1,0 +1,19 @@
+---
+title: Girolama Parasole among the “Illustrious” in the Portrait Collection at the Accademia di San Luca
+layout: splash
+order: 100
+contributor:
+  - id: snalez
+image: figures/Fig6_Portrait_of_a_woman_SN.jpg
+page_pdf_output: true
+---
+
+{% figure 'fig-1' 'is-pulled-left' %}
+
+Three early 17th-century inventories describe a portrait collection of historically significant artists displayed at the Accademia di San Luca, which are made available on *The History of the Accademia di San Luca, c. 1590–1635*.[^1^](/endnotesparporteng/#note-1) The 1633 inventory lists 69 sitters’ names, filling a page and a half with artists from the distant past, recent past, and present.[^2^](/endnotesparporteng/#note-2) The notary’s pen stroke at the end of one artist’s latinized name, Hieronima Parasoli, could easily have been wrongly transcribed as Hieronimo. But cross-referencing this evidence with a portrait still at the Accademia by an anonymous artist confirms the sitter’s identity as the female Roman printmaker and book illustrator, Girolama Cagnaccia Parasole (c. 1567–1622) (fig. 1).[^3^](/endnotesparporteng/#note-3) A cartouche is inscribed with another variant of her name: “Girolama Parasoli Sc./1612.” The “Sc.” is for sculptor, as printmakers were described because they carved different media—in her case, wooden blocks to create woodcuts. Girolama wears black and a widow’s veil, which relates to the painting’s inscription of 1612, the year she lost her husband, Leonardo Parasole, with whom she had made book illustrations for local publishers.[^4^](/endnotesparporteng/#note-4) She was 45 years old when she became a widow, and she spent the next decade working on her own.[^5^](/endnotesparporteng/#note-5)
+
+Giovanni Baglione mentioned Girolama in his 1642 *Vite de’ pittori, scultori et architetti*; however, he conflated her identity with that of her sister-in-law, Isabella Catanea Parasole, who had published numerous lacework pattern books, one of which had a frontispiece engraved by Francesco Villamena. Baglione wrongly had it that Isabella, not Girolama, had married Leonardo Parasole, and that they had raised a son, Bernardino, who worked with the painter Giuseppe Cesari. He also mentions her work on illustrations for a book about herbal plants and flowers, *Herbario nuovo di Castore Durante* (1585).[^6^](/endnotesparporteng/#note-6) Baglione perhaps gave Isabella more prominence because her name survives on her many books’ title pages. By contrast, much of Girolama’s signed work survives as illustrations in texts authored by someone else, mostly antiquarians and ecclesiastics, which he neglected to mention, choosing to focus on subjects more socially acceptable for women—that is, lacework and flowers.[^7^](/endnotesparporteng/#note-7) There is no evidence Isabella knew how to carve woodblocks. Perhaps Girolama had been somehow involved with the illustrations in her sister-in-law’s books, though there is no evidence of this either.[^8^](/endnotesparporteng/#note-8) Baglione’s mistake published 20 years after Girolama’s death endured for centuries. Even after this contradiction had been noted by Giovanni Incisa della Rocchetta in 1957, addressed in 1995 by Alessandro Zuccari and Marco Pupillo, and later expanded upon by Pupillo in 2009, it sometimes persisted in subsequent scholarship.[^9^](/endnotesparporteng/#note-9) It is curious that Girolama’s portrait hung in the Accademia, documented by 1633, yet Baglione, who was active in the school’s governance and who might have regularly walked right past it, got her name wrong. He certainly knew the collection. In his *Vite*, he mentioned the existence of 24 portraits that hung at the Accademia and were listed on the 1633 inventory.[^10^](/endnotesparporteng/#note-10)
+
+---
+
+*Image header: Sofonisba Anguissola,* Portrait of a Woman, *c. 1560, oil on canvas. Musée Condé, Chantilly © Musée Condé, Chantilly / Bridgeman Images*

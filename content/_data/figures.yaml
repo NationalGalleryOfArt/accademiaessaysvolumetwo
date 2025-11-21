@@ -1,0 +1,251 @@
+figure_list:
+
+  - id: "fig-1"
+    label: "Figure 1.1"
+    src: figures/Fig1_Girolama_Parasole_SN.jpg
+    caption: "Anonymous, *Portrait of Girolama Parasole*, before 1633, oil on canvas,"
+    credit: "Accademia di San Luca, Rome"
+    alt: "A painting shows a woman from the bust up, gazing directly at the viewer. She wears black and a widow's veil. Her figure is set within a medallion-like frame that appears inside the larger frame of the image. A cartouche is inscribed with another variant of her name: “Girolama Parasoli Sc./1612.” The “Sc.” is for sculptor, as printmakers were described because they carved different media—in her case, wooden blocks to create woodcuts."
+
+  - id: "fig-2"
+    label: "Figure 1.2"
+    src: figures/Fig2_Antonio_Tempesta_SN.jpg
+    caption: "Anonymous, *Portrait of Antonio Tempesta*, before 1633, oil on canvas,"
+    credit: "Accademia di San Luca, Rome"
+    alt: "A paiting shows a man from the bust up, gazing directly at the viewer. He wears a black shirt and a golden necklace around a white embroidered collar. His figure is set within a medallion-like frame that appears inside the larger frame of the image. A cartouche is inscribed with “Antonio Tempesta P. In 1630.”"
+
+  - id: "fig-3"
+    label: "Figure 1.3"
+    src: figures/Fig3_Cesare_Ripa_SN.jpg
+    caption: "Francesco Villamena, *Portrait of Cesare Ripa*, engraving,"
+    credit: "The British Museum, Creative Commons (CC BY-NC-SA 4.0)"
+    alt: "An engraving shows a man from the bust up, gazing directly at the viewer. He wears a long necklace adorned with a cross. His figure is set within a medallion-like frame that appears inside the larger frame of the image. A cartouche is inscribed with “Caesar Ripa Eqves S.S. Mavritii et Lazari.”A cartouche is inscribed with “Caesar Ripa Eqves S.S. Mavritii et Lazari.”"
+
+  - id: "fig-4"
+    label: "Figure 1.4"
+    src: figures/Fig4_Critoforo_Roncalli_SN.jpg
+    caption: "Ottavio Leoni, *Cristoforo Roncalli*, 1623, engraving,"
+    credit: "National Gallery of Art, Gift of W.G. Russell Allen, 1941.8.18"
+    alt: "An engraving shows a man from the bust up, gazing directly at the viewer. He wears a necklace adorned with a small cross over an embroidered vest. His figure is set within a medallion-like frame that appears inside the larger frame of the image. Text around the figure reads: “Eques Christophor” / “Ronchalis de Pome-rancys pictor” / “superior Eques Octavius Leonis” / “permissu Roman pictor fecit.”"
+
+  - id: "fig-5"
+    label: "Figure 1.5"
+    src: figures/Fig5_Sofonisba_Anguissola_SN.jpg
+    caption: "Bernardo Castello, *Portrait of Sofonisba Anguissola*, before 1633, oil on canvas,"
+    credit: "Accademia di San Luca, Rome"
+    alt: "A painting shows a woman from the bust up, gazing directly at the viewer. She wears pearl earrings and an elaborate headband adorned with pearls and topped by a small tiara. Her figure is set within a medallion-like frame that appears inside the larger frame of the image. A cartouche is inscribed with “Sofonisba Angosciola P. 1564.”"
+
+  - id: "fig-6"
+    label: "Figure 1.6"
+    src: figures/Fig6_Portrait_of_a_woman_SN.jpg
+    caption: "Sofonisba Anguissola, *Portrait of a Woman*, c. 1560, oil on canvas,"
+    credit: "Musée Condé, Chantilly © Musée Condé, Chantilly / Bridgeman Images"
+    alt: "A painting shows a woman from the bust up, gazing directly at the viewer. She wears pearl earrings and an elaborate headband adorned with pearls and topped by a small tiara. She also wears a gorget, a large, round, wheel-like collar of pleated fine linen."
+
+  - id: "fig-7"
+    label: "Figure 1.7"
+    src: figures/Fig7_Giove_Pluvio_SN.jpg
+    caption: "Girolama Parasole, “Giove Pluvio,” from Cesare Baronio, *Annales Ecclesiastici* (Rome, 1594), 2:209,"
+    credit: "Bibliothèque municipale de Lyon"
+    alt: "A page from a book shows a winged, god-like figure with a long beard depicted at the center of the composition. He summons clouds and lightning over the soldiers below. There is text above and below the image."
+
+  - id: "fig-8"
+    label: "Figure 1.8"
+    src: figures/Fig8_Torture_by_wheel_SN.jpg
+    caption: "Girolama Parasole after Antonio Tempesta, *Torture by Wheel*, from Antonio Gallonio, *De SS. martyrvm crvciatibvs* (Rome, 1594), 44,"
+    credit: "Biblioteca Nazionale Centrale di Roma. Creative Commons, Public Domain Mark 1.0  "
+    alt: "A page from a book shows several figures bound to a large wheel, some with visible spikes and others without. On the right-hand side, a man is shown positioned upside down. The letters A–E are placed next to the figures’ heads. Below the composition, text reads: “A Martyres quandoque rotis, mucronibus vdinque affixis, ligati, super cuspides ferreos circumagebantur: B Aliquando, quibus affixi non erant prenotati mucrones, super cuspides item ferreos. C Aut faltem, vt misere vitam finirent, super ardentes prunas. D Demum rotarum conuexis alligati, e loco sublimi precipitabaantur. E Aut rotarù radijs intexti, sic ad plurimos dies, vt interirent, reliquebantur.”"
+
+  - id: "fig-1it"
+    label: "Figure 1.1"
+    src: figures/Fig1_Girolama_Parasole_SN.jpg
+    caption: "Anonimo, *Ritratto di Girolama Parasole*, ante 1633, olio su tela,"
+    credit: "Accademia di San Luca, Roma"
+    alt: "Una donna è ritratta a mezzo busto, con lo sguardo rivolto direttamente verso chi osserva. Indossa abiti neri e un velo vedovile, e la figura è incorniciata all'interno di un medaglione. Un cartiglio reca un'altra variante del suo nome: “Girolama Parasoli Sc./1612.” La sigla “Sc.” sta per scultrice, poiché i creatori di stampe venivano descritti così in quanto incidevano diversi materiali — nel suo caso, blocchi di legno per realizzare xilografie."
+
+  - id: "fig-2it"
+    label: "Figure 1.2"
+    src: figures/Fig2_Antonio_Tempesta_SN.jpg
+    caption: "Anonimo, *Ritratto di Antonio Tempesta*, ante 1633, olio su tela,"
+    credit: "Accademia di San Luca, Roma"
+    alt: "Un uomo è ritratto a mezzo busto, con lo sguardo rivolto direttamente verso chi osserva. Indossa una blusa nera e una collana dorata sopra un colletto bianco ricamato. La figura è inserita all'interno di una cornice a medaglione. Un cartiglio reca la scritta: “Antonio Tempesta P. In 1630.”"
+
+  - id: "fig-3it"
+    label: "Figure 1.3"
+    src: figures/Fig3_Cesare_Ripa_SN.jpg
+    caption: "Francesco Villamena, *Ritratto di Cesare Ripa*, incisione,"
+    credit: "The British Museum, Creative Commons (CC BY-NC-SA 4.0)"
+    alt: "Un uomo è raffigurato a mezzo busto, con lo sguardo rivolto direttamente verso chi osserva. Indossa una lunga collana adornata con una croce. La figura è inserita all'interno di una cornice a medaglione. Un cartiglio reca la scritta: “Caesar Ripa Eqves S.S. Mavritii et Lazari.”"
+
+  - id: "fig-4it"
+    label: "Figure 1.4"
+    src: figures/Fig4_Critoforo_Roncalli_SN.jpg
+    caption: "Ottavio Leoni, *Cristoforo Roncalli*, 1623, incisione,"
+    credit: "National Gallery of Art, Gift of W.G. Russell Allen, 1941.8.18"
+    alt: "Un uomo è raffigurato a mezzo busto, con lo sguardo rivolto direttamente verso chi osserva. Indossa una collana adornata con una piccola croce, sopra un gilet ricamato. La figura è inserita all'interno di una cornice a medaglione. Il testo che contorna la figura recita: “Eques Christophor” / “Ronchalis de Pome-rancys pictor” / “superior Eques Octavius Leonis” / “permissu Roman pictor fecit”"
+
+  - id: "fig-5it"
+    label: "Figure 1.5"
+    src: figures/Fig5_Sofonisba_Anguissola_SN.jpg
+    caption: "Bernardo Castello, *Ritratto di Sofonisba Anguissola*, ante 1633, olio su tela,"
+    credit: "Accademia di San Luca, Roma"
+    alt: "Una donna è ritratta a mezzo busto, con lo sguardo rivolto direttamente verso chi osserva. Indossa orecchini di perle e un elaborato cerchietto adornato con perle e sormontato da una piccola tiara. Un cartiglio reca la scritta: “Sofonisba Angosciola P. 1564.”"
+
+  - id: "fig-6it"
+    label: "Figure 1.6"
+    src: figures/Fig6_Portrait_of_a_woman_SN.jpg
+    caption: "Sofonisba Anguissola, *Ritratto di donna*, c. 1560, olio su tela,"
+    credit: "Musée Condé, Chantilly © Musée Condé, Chantilly / Bridgeman Images"
+    alt: "Una donna è ritratta a mezzo busto, con lo sguardo rivolto direttamente verso chi osserva. Indossa orecchini di perle e un elaborato cerchietto adornato con perle e sormontato da una piccola tiara. Indossa inoltre un gorgera, un ampio colletto rotondo a forma di ruota, realizzato in fine lino plissettato."
+
+  - id: "fig-7it"
+    label: "Figure 1.7"
+    src: figures/Fig7_Giove_Pluvio_SN.jpg
+    caption: "Girolama Parasole, “Giove Pluvio,” in Cesare Baronio, *Annales Ecclesiastici* (Roma, 1594), 2:209,"
+    credit: "Bibliothèque municipale de Lyon"
+    alt: "Una figura alata, simile a una divinità, è raffigurata al centro della composizione, mentre richiama nuvole e fulmini sopra i soldati sottostanti. L'immagine è inserita in una pagina di libro con testo sopra e sotto."
+
+  - id: "fig-8it"
+    label: "Figure 1.8"
+    src: figures/Fig8_Torture_by_wheel_SN.jpg
+    caption: "Girolama Parasole da Antonio Tempesta, *Tortura per mezzo della ruota*, da Antonio Gallonio, *De SS. martyrvm crvciatibvs* (Roma, 1594), 44,"
+    credit: "Biblioteca Nazionale Centrale di Roma. Creative Commons, Public Domain Mark 1.0  "
+    alt: "In questa pagina di libro diverse figure sono raffigurate legate a una grande ruota, alcune con spuntoni visibili e altre senza. Sul lato destro, un uomo è rappresentato a testa in giù. La didascalia dell'immagine riporta la legenda con lettere dalla A alla E, si legge: “A Martyres quandoque rotis, mucronibus vdinque affixis, ligati, super cuspides ferreos circumagebantur: B Aliquando, quibus affixi non erant prenotati mucrones, super cuspides item ferreos. C Aut faltem, vt misere vitam finirent, super ardentes prunas. D Demum rotarum conuexis alligati, e loco sublimi precipitabaantur. E Aut rotarù radijs intexti, sic ad plurimos dies, vt interirent, reliquebantur.”"
+
+  - id: "fig-2.1"
+    label: "Figure 2.1"
+    src: figures/fig1-girolama-parasole.jpg
+    caption: "Anonymous, *Portrait of Girolama Parasole*, before 1633, oil on canvas,"
+    credit: "Accademia di San Luca, Rome"
+    alt: "A painting shows a woman from the bust up, gazing directly at the viewer. She wears black and a widow's veil. Her figure is set within a medallion-like frame that appears inside the larger frame of the image. A cartouche is inscribed with another variant of her name: “Girolama Parasoli Sc./1612.”"
+
+  - id: "fig-2.2"
+    label: "Figure 2.2"
+    src: figures/fig2-specchiodellevirtuosedonne.jpg
+    caption: "Isabella Parasole, *“Lavoro a ponto reticella,”* in *Specchio delle Virtuose Donne, dove si vedono bellissimi lavori di punto in aria, reticella, di maglia, & piombini, disegnata da Isabetta Catanea Parasole* (Rome, 1595), n.p.,"
+    credit: "Bibliothèque nationale de France"
+    alt: "A black-and-white woodblock print on paper depicts a decorative motif resembling snowflakes arranged in two horizontal rows. At the top of the page, a caption reads “Lavoro a reticella.“"
+
+  - id: "fig-2.3"
+    label: "Figure 2.3"
+    src: "figures/fig3-curione.jpg"
+    caption: "Ludovico Curione, *Il modo di scrivere le cancellaresche corsive et altre maniere di lettere di Lodovico Curione. Intagliato in legno per Leonardo Parasole*, Libro Primo (Rome, 1586), n.p.,"
+    credit: "Biblioteca Archiginnasio Bologna"
+    alt: "A woodblock print on paper depicts the letters R, S, T, V, X, Y, and Z in white against a black background. The letters are enclosed within a rectangular frame. The white margin of the paper is adorned with spiral doodle-like patterns."
+
+  - id: "fig-2.4"
+    label: "Figure 2.4"
+    src: "figures/fig4-giove-pluvio.jpg"
+    caption: "Girolama Parasole, “Giove Pluvio,” from Cesare Baronio, *Annales Ecclesiastici* (Rome, 1594), 2:209,"
+    credit: "Österreichische Nationalbibliothek"
+    alt: "A winged, god-like figure with a long beard is depicted at the center of the composition. He summons clouds and lightning over the soldiers below."
+
+  - id: "fig-2.5"
+    label: "Figure 2.5"
+    src: "figures/fig5-giove-pluvio-austrian.jpg"
+    caption: "“Giove Pluvio,” in Cesare Baronio, *Annales Ecclesiastici* (Rome, 1590), 2:198,"
+    credit: "Österreichische Nationalbibliothek"
+    alt: "A winged, god-like figure with a long beard is depicted at the center of the composition. He summons clouds and lightning over the soldiers below."
+
+  - id: "fig-2.6"
+    label: "Figure 2.6"
+    src: "figures/fig6_rainmiraclecolumnmarcus-aurelius.jpg"
+    caption: "*The Rain Miracle in the Territory of the Quadi*, detail from the Column of Marcus Aurelius, c. 193 CE, marble carving"
+    alt: "A marble carving depicts a winged, god-like figure is depicted at the center of the composition. He summons clouds and lightning over the soldiers below."
+
+  - id: "fig-2.7"
+    label: "Figure 2.7"
+    src: "figures/fig7-dente-battle-scene.jpg"
+    caption: "Marco Dente after Raphael, *Battle scene in a landscape with soldiers on horseback and several fallen men, another group of riders in the background*, c. 1520, engraving,"
+    credit: "The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959, 59.570.277"
+    alt: "An engraving depicts a battle scene in a landscape with soldiers on horseback and several fallen men. There is another group of riders in the background."
+
+  - id: "fig-2.8"
+    label: "Figure 2.8"
+    src: "figures/fig8-lastjudgment.jpg"
+    caption: "Girolama Parasole after Antonio Tempesta, *The Last Judgment*, n.d., woodblock print,"
+    credit: "Gabinetto dei disegni e delle stampe “Angelo Davoli,” Biblioteca Panizzi"
+    alt: "A detailed scene depicts figures rising from graves, angels, and the moment of divine judgment. The composition is divided into three registers, all summoned by Christ, who raises his right arm in a commanding gesture."
+
+  - id: "fig-2.9"
+    label: "Figure 2.9"
+    src: "figures/fig9-lapiths-centaurs.jpg"
+    caption: "Girolama Parasole after Antonio Tempesta, *Battle of the Lapiths and Centaurs*, n.d., woodblock print,"
+    credit: "The Art Institute of Chicago, The Amanda S. Johnson and Marion J. Livingston Fund, 1999.684"
+    alt: "A battle scene with soldiers on horseback occupies most of the composition. There are several fallen men."
+
+  - id: "fig-2.10"
+    label: "Figure 2.10"
+    src: "figures/fig10-sofonisba-anguissola.jpg"
+    caption: "Bernardo Castello, *Portrait of Sofonisba Anguissola*, before 1633, oil on canvas,"
+    credit: "Accademia di San Luca, Rome"
+    alt: "A painting shows a woman from the bust up, gazing directly at the viewer. She wears pearl earrings and an elaborate headband adorned with pearls and topped by a small tiara. Her figure is set within a medallion-like frame that appears inside the larger frame of the image. A cartouche is inscribed with “Sofonisba Angosciola P. 1564.”"
+
+  - id: "fig-2.1it"
+    label: "Figure 2.1"
+    src: figures/fig1-girolama-parasole.jpg
+    caption: "Anonimo, *Ritratto di Girolama Parasole*, ante 1633, olio sul tela,"
+    credit: "Accademia di San Luca, Roma"
+    alt: "Una donna è ritratta dalla vita in su, con lo sguardo rivolto direttamente verso chi osserva il quadro. Indossa abiti neri e un velo vedovile e la figura è racchiusa in una cornice simile a un medaglione, inserita all'interno della cornice più ampia dell'immagine. Un cartiglio riporta un'altra variante del suo nome: “Girolama Parasoli Sc./1612.”"
+
+  - id: "fig-2.2it"
+    label: "Figure 2.2"
+    src: figures/fig2-specchiodellevirtuosedonne.jpg
+    caption: "Isabella Parasole, *“Lavoro a ponto reticella,”* in *Specchio delle Virtuose Donne, dove si vedono bellissimi lavori di punto in aria, reticella, di maglia, & piombini, disegnata da Isabetta Catanea Parasole* (Roma, 1595), s.p.,"
+    credit: "Bibliothèque nationale de France"
+    alt: "Stampa in bianco e nero su carta, realizzata con matrice in legno, che raffigura un motivo decorativo simile a fiocchi di neve stilizzati disposti in due file orizzontali. Nella parte superiore della pagina, una didascalia recita 'Lavoro a reticella'."
+
+  - id: "fig-2.3it"
+    label: "Figure 2.3"
+    src: "figures/fig3-curione.jpg"
+    caption: "Ludovico Curione, *Il modo di scrivere le cancellaresche corsive et altre maniere di lettere di Lodovico Curione. Intagliato in legno per Leonardo Parasole*, Libro Primo (Roma, 1586), s.p.,"
+    credit: "Biblioteca Archiginnasio Bologna"
+    alt: "Stampa su carta realizzata con matrice in legno, che raffigura le lettere R, S, T, V, X, Y e Z in bianco su sfondo nero. Le lettere sono racchiuse all'interno di una cornice rettangolare. Il margine bianco della carta è decorato con motivi a spirale arzigogolati."
+
+  - id: "fig-2.4it"
+    label: "Figure 2.4"
+    src: "figures/fig4-giove-pluvio.jpg"
+    caption: "Girolama Parasole, “Giove Pluvio,” in Cesare Baronio, *Annales Ecclesiastici* (Roma, 1594), 2:209,"
+    credit: "Österreichische Nationalbibliothek"
+    alt: "Una figura alata con la barba lunga, simile a una divinità, è raffigurata al centro della composizione, mentre richiama a sé nuvole e fulmini sopra i soldati sottostanti."
+
+  - id: "fig-2.5it"
+    label: "Figure 2.5"
+    src: "figures/fig5-giove-pluvio-austrian.jpg"
+    caption: "“Giove Pluvio,” in Cesare Baronio, *Annales Ecclesiastici* (Rome, 1590), 2:198,"
+    credit: "Österreichische Nationalbibliothek"
+    alt: "Una figura alata con la barba lunga, simile a una divinità, è raffigurata al centro della composizione, mentre richiama a sé nuvole e fulmini sopra i soldati sottostanti."
+
+  - id: "fig-2.6it"
+    label: "Figure 2.6"
+    src: "figures/fig6_rainmiraclecolumnmarcus-aurelius.jpg"
+    caption: "*Miracolo della Pioggia di Quadi*, dettaglio dalla Colonna di Marco Aurelio, c. 193 d.C., marmo"
+    alt: "In questa sezione di bassorilievo in marmo, una figura alata con la barba lunga, simile a una divinità, è raffigurata al centro della composizione, mentre richiama a sé nuvole e fulmini sopra i soldati sottostanti."
+
+  - id: "fig-2.7it"
+    label: "Figure 2.7"
+    src: "figures/fig7-dente-battle-scene.jpg"
+    caption: "Marco Dente da Raffaello, *Scena di battaglia in un paesaggio con soldati a cavallo, diversi uomini caduti e un altro gruppo di cavalieri sullo sfondo*, c. 1520, incisione,"
+    credit: "The Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959, 59.570.277"
+    alt: "Scena di battaglia in un paesaggio, con soldati a cavallo e diversi uomini a terra, mentre un altro gruppo di cavalieri appare sullo sfondo dell'incisione."
+
+  - id: "fig-2.8it"
+    label: "Figure 2.8"
+    src: "figures/fig8-lastjudgment.jpg"
+    caption: "Girolama Parasole da Antonio Tempesta, *Il Giudizio Universale*, s.d., incisione,"
+    credit: "Gabinetto dei disegni e delle stampe “Angelo Davoli,” Biblioteca Panizzi"
+    alt: "In questa incisione una scena dettagliata raffigura figure che si sollevano dalle tombe, angeli e il momento del giudizio divino. La composizione è suddivisa in tre registri, all'apice c'è la figura del Cristo che solleva il braccio destro."
+
+  - id: "fig-2.9it"
+    label: "Figure 2.9"
+    src: "figures/fig9-lapiths-centaurs.jpg"
+    caption: "Girolama Parasole da Antonio Tempesta, *Battaglia tra Lapiti e Centauri*, s.d., incisione,"
+    credit: "The Art Institute of Chicago, The Amanda S. Johnson and Marion J. Livingston Fund, 1999.684"
+    alt: "In questa incisione viene rappresentata una scena di battaglia con soldati a cavallo che occupano gran parte della composizione e diversi uomini a terra."
+
+  - id: "fig-2.10it"
+    label: "Figure 2.10"
+    src: "figures/fig10-sofonisba-anguissola.jpg"
+    caption: "Bernardo Castello, *Ritratto di Sofonisba Anguissola*, ante 1633, olio su tela,"
+    credit: "Accademia di San Luca, Roma"
+    alt: "Una donna è ritratta dalla vita in su, con lo sguardo rivolto direttamente verso chi osserva il quadro. Indossa orecchini di perle e un elaborato cerchietto adornato di perle, sormontato da una piccola tiara.  La figura è inserita all'interno di una cornice a medaglione. Un cartiglio riporta la scritta: “Sofonisba Angosciola P. 1564.”"

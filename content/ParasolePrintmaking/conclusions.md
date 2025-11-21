@@ -1,0 +1,17 @@
+---
+title: Conclusions
+layout: essay
+order: 304
+contributor:
+  - id: elincoln
+page_pdf_output: true
+menu: false
+---
+
+When paired with the portrait of Sofonisba Anguissola, which we now know was not a likeness but adequately represented the Accademia’s idea of her, we can imagine how these two images of women represented types and role models for artists (fig. 2.10). 
+
+{% figure 'fig-2.10' 'is-pulled-right' %} 
+
+The presumptive portrait of Sofonisba as a court lady—with lace ruff, careful coiffure, and pearl earrings—could show a lady-in-waiting, as she was at the Spanish court, a milieu in which a woman could reasonably conduct herself as a painter, a type of artist not otherwise represented among the academic portraits. In contrast, the disturbingly plain portrait of Girolama shows us a devout artisan operating in her own name as a widow, dutifully carrying on a family profession as many widows did in the book printing business. Girolama’s reputation as a committed Christian, her work for the Vatican physician, or for Cardinal Cesare Baronio, as well as her possible presence in the many unsigned woodcuts for liturgical volumes organized and published by her husband at the turn of the century, made her an unusual symbol of the good that printed images could do in the world that the church was fashioning with the help of the devout populace of Christendom after the Council of Trent.[^35^](/endnotesprinteng/#note-35) When portraits of women were included in series of *uomini illustri*, they were often presented as mythological or biblical characters, types as compared to the recognizable, time-bound men they accompanied. According to Gabriele Paleotti, who helpfully reminds us that it is important to distinguish between the act of making a portrait and the uses made of it afterward, portraits were supposed to portray “persons whose moral goodness or Christian sanctity may act as incentive to others to practice the virtues.”[^36^](/endnotesprinteng/#note-36) A variety of portraits allowed students to parse the possible forms of greatness an artist might embody. Girolama’s portrait certainly adds a dimension to the Accademia’s notions of artistic women, however narrowly it may represent the actual working life, or ultimately unknowable aspirations, of the particular woman. 
+
+Baglione’s error points us to the community structures in which Girolama lived and worked, showing how anachronistic it is to assume that her portrait among the academicians meant that she took part in the art world in the same way as the academic artists with whom she actually worked closely: Antonio Tempesta, Francesco Villamena, Cristoforo Roncalli, and Giuseppe Cesari, for example, were particularly close to her and her family. A chronicle of her life and works, and of the few signed images that give us a sense of her partnership in a family workshop as well as her role in producing the picture atlas of early modern Roman intellectual life, cannot yield a coherent narrative about the Accademia’s portrait. Perhaps the most unusual aspect of the painted portrait of Girolama Parasole among those of the academicians is that it asks us to think more open-mindedly about the definition of, conduct of, and opportunities for printmakers in Rome during the period of Catholic reform, opportunities that the new Accademia found it helpful, up to a point, to embrace.

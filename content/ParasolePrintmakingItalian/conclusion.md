@@ -1,0 +1,19 @@
+---
+title: Conclusione
+layout: essay
+order: 404
+contributor:
+  - id: elincoln
+page_pdf_output: true
+menu: false
+---
+
+Se accostiamo il ritratto di Girolama a quello di Sofonisba Anguissola – che oggi sappiamo non essere un ritratto fedele ma piuttosto una rappresentazione dell’idea che l’Accademia di San Luca aveva di lei – non ci è difficile immaginare come queste due figure di donna incarnassero per gli artisti tipi e modelli (fig. 2.10). 
+
+{% figure 'fig-2.10it' 'is-pulled-right' %} 
+
+Il presunto ritratto di Sofonisba in veste di dama di corte – con gorgiera di pizzo, acconciatura elaborata e orecchini di perle – può far pensare a una dama di compagnia, ruolo che effettivamente rivestiva presso la corte spagnola; in quel contesto una donna poteva ragionevolmente comportarsi come pittrice, una tipologia di artista che però non trovava spazio tra i ritratti accademici. Il ritratto fastidiosamente modesto di Girolama ci mostra invece una devota artigiana che in quanto vedova opera con il proprio nome, portando diligentemente avanti il mestiere di famiglia come facevano molte altre donne nella sua condizione nel settore della stampa editoriale. 
+
+La sua fama di fervente cristiana, l’attività svolta per il medico vaticano o per il cardinale Cesare Baronio, così come la sua possibile mano nelle tante xilografie senza firma per volumi liturgici assemblati e pubblicati dal marito a cavallo del secolo, facevano di lei un originale simbolo del bene che le immagini stampate erano in grado di produrre nel mondo che la chiesa cattolica andava plasmando con l’aiuto del popolo dei fedeli dopo il Concilio di Trento[^35^](/endnotesprintita/#note-35). Quando si includevano ritratti femminili nelle serie di “uomini illustri”, le donne erano spesso raffigurate come figure mitologiche o bibliche; esse rappresentavano dei tipi al confronto con gli uomini riconoscibili e ben collocati nel loro tempo a cui venivano accostate. Gabriele Paleotti ci ricorda opportunamente l’importanza di distinguere l’esecuzione di un ritratto dai suoi usi successivi: i ritratti dovevano raffigurare “persone la cui bontà morale o santità cristiana possa stimolare altri a praticare le virtù”[^36^](/endnotesprintita/#note-36). La loro varietà permetteva agli studenti di analizzare le diverse forme di grandezza che un artista poteva incarnare. Il ritratto di Girolama aggiunge senz’altro una dimensione alla concezione che l’Accademia aveva delle artiste donne, pur restituendo una visione limitata della vera vita lavorativa o delle aspirazioni – forse indecifrabili – dell’effigiata. 
+
+L’errore di Baglione ci porta a riflettere sulle strutture comunitarie in cui Girolama viveva e lavorava, mostrando quanto sia anacronistico ritenere che la collocazione del suo ritratto tra gli accademici implicasse un’uguaglianza, in termini di partecipazione alla scena artistica, tra lei e gli accademici con cui lavorava a stretto contatto. Tra questi, Antonio Tempesta, Francesco Villamena, Cristoforo Roncalli, e Giuseppe Cesari erano particolarmente vicini a lei e alla sua famiglia. Una cronaca della vita e delle opere di Girolama – comprese le poche immagini firmate che ci danno il senso del suo apporto nella bottega di famiglia e del suo ruolo nella produzione dell’atlante illustrato della vita intellettuale nella Roma della prima età moderna – non riesce a produrre una narrativa coerente del ritratto nell’Accademia. L’aspetto forse più singolare del ritratto dipinto di Girolama Parasole tra quelli degli accademici è che ci invita a riflettere in modo più aperto sull’identità degli incisori, sui loro comportamenti e sulle opportunità che si aprivano loro nella Roma della controriforma cattolica – opportunità che, entro certi limiti, la nuova Accademia trovò utile abbracciare.
